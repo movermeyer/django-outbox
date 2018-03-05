@@ -3,7 +3,7 @@ Django Outbox
 
 ![Downloads](https://img.shields.io/pypi/dm/django-outbox.svg?style=flat)
 [![Code Health](https://landscape.io/github/poiati/django-outbox/master/landscape.svg?style=flat)](https://landscape.io/github/poiati/django-outbox/master)
-![Versions](https://pypip.in/py_versions/django-outbox/badge.svg?style=flat)
+![Versions](https://img.shields.io/pypi/pyversions/django-outbox.svg?style=flat)
 
 Capture all mails sent and show it in a simple web interface.
 
